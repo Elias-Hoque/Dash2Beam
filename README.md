@@ -3,6 +3,8 @@ Dash2Beam is an ESP-based dashboard for school projectors. Core functions are ma
 
 **This Project is still a Prototype. So please acknowledge bugs or functional issues.**
 
+The project was part of the SIA Student Engineering Academy Freiburg — more at: freiburg-seminar.de/sia
+
 ![IMG_9721](https://github.com/user-attachments/assets/8eb019a3-af36-49e8-bdf1-63a68cd99f6f)
 
 
